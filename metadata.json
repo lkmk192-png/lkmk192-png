@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Organic — 21-Min Farm-to-Door Quick Commerce",
+  "description": "Order certified organic vegetables, A2 Bilona Desi Ghee, cold-pressed oils, unpolished dals, freshly ground spices, and home wellness essentials delivered in minutes.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
